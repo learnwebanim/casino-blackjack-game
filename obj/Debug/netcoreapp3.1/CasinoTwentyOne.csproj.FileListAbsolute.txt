@@ -1,0 +1,13 @@
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\bin\Debug\netcoreapp3.1\CasinoTwentyOne.exe
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\bin\Debug\netcoreapp3.1\CasinoTwentyOne.deps.json
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\bin\Debug\netcoreapp3.1\CasinoTwentyOne.runtimeconfig.json
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\bin\Debug\netcoreapp3.1\CasinoTwentyOne.runtimeconfig.dev.json
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\bin\Debug\netcoreapp3.1\CasinoTwentyOne.dll
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\bin\Debug\netcoreapp3.1\CasinoTwentyOne.pdb
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\obj\Debug\netcoreapp3.1\CasinoTwentyOne.csprojAssemblyReference.cache
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\obj\Debug\netcoreapp3.1\CasinoTwentyOne.AssemblyInfoInputs.cache
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\obj\Debug\netcoreapp3.1\CasinoTwentyOne.AssemblyInfo.cs
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\obj\Debug\netcoreapp3.1\CasinoTwentyOne.csproj.CoreCompileInputs.cache
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\obj\Debug\netcoreapp3.1\CasinoTwentyOne.dll
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\obj\Debug\netcoreapp3.1\CasinoTwentyOne.pdb
+E:\Users\Ronica\Documents\Visual Studio 2019\Projects\CasinoTwentyOne\CasinoTwentyOne\obj\Debug\netcoreapp3.1\CasinoTwentyOne.genruntimeconfig.cache
